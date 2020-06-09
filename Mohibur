@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:0,1. E24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
+#EXTINF:0,2. Sony Sab HD
+http://103.135.208.14/live/ibox/bd/45.m3u8
+#EXTINF:0,3. Nagorik Tv
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8
+#EXTINF:0,4. Mohona Tv
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+#EXTINF:0,5. Millennium Tv
+http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:0,6. Maasranga Tv HD
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:0,7. Music India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
+#EXTINF:0,8. Sony pix
+http://103.205.133.42:1935/local/sony_pix_720/chunklist.m3u8
+#EXTINF:0,9. Sopno Tv 
+http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
+#EXTINF:0,10. Sangsad Tv
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0,11. SA Tv HD
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:0,12. My Tv HD
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0,13. Asian Tv
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:0,14. ATN News 
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:0,15. Anonda Tv
+http://103.3.226.74:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:0,16. Somoy Tv
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:0,17. News 24 HD
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:0,18. BBC World
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0,18. Gaan Bangla
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:0,19. BTV World 
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:0,20. Nakshi Tv
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+#EXTINF:0,21`. DBC News 
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:0,22. Sony Aat 
+http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
+#EXTINF:0,42. Channel I HD
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:0,23. Movi Bangla 
+http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:0,24. My Cinema 
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:0,25. Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:0,26. Bijoy Tv HD
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:0,27. Akash Aat 
+http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
+#EXTINF:0,28. Independent News
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:0,29. Gtv HD
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:0,30. Rtv HD
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:0,31. Jamuna Tv
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:0,32. Zee Bangla SD
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8
+#EXTINF:0,33. Boisakhi Tv
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8
+#EXTINF:0,34. Bangla Vision HD
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8
+#EXTINF:0,35. Jalsha movies SD 
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/playlist.m3u8
+#EXTINF:0,36. Ekushe Tv
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8
+#EXTINF:0,37. Ekattor Tv HD
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:0,38. Duronto Tv
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:0,39. WB Movi
+http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
+#EXTINF:0,40. Desh Tv
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:0,41. Deepto Tv HD
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0,42. Channel S HD
+http://telelive.livebox.co.in/channelShls/live.m3u8
+#EXTINF:0,43. Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:0,44. Axn 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8
+#EXTINF:0,45. BTV National 
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:0,46. Bangla tv
+http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:0,47. Colors HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/playlist.m3u8
+#EXTINF:0,48. Amar Cinema 
+https://streamhoichoi.multitvsolution.in/live/AamarCinema-h/p1.m3u8
+#EXTINF:0,49. N Tv 
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:0,50. Colours Bangla HD 
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:0,51. DD Bangla 
+https://itpolly.iptv.digijadoo.net/live/dd_bangla/playlist.m3u8
+#EXTINF:0,52. Ruposhi Bangla 
+https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+#EXTINF:0,53. Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:0,54. Sangeet Bangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/playlist.m3u8
+#EXTINF:0,55. Dhoom Music 
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+#EXTINF:0,56. Sony Yay Bangal 
+http://103.205.133.42:1935/live/sony_yay_240/index.m3u8?banglatvbkash
+#EXTINF:0,57. Mnx
+http://103.135.208.14/live/ibox/bd/70.m3u8
+#EXTINF:0,58. B4U Music
+https://edge01.iptv.digijadoo.net/live/b4u_music/playlist.m3u8
+#EXTINF:0,59. Star Gold 2
+https://edge01.iptv.digijadoo.net/live/movies_ok/playlist.m3u8
+#EXTINF:0,60. Star Gold HD
+https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+#EXTINF:0,61. Star Bharat
+https://edge01.iptv.digijadoo.net/live/star_bharat/playlist.m3u8
+#EXTINF:0,62. Sonic
+https://edge01.iptv.digijadoo.net/live/sonic/playlist.m3u8
+#EXTINF:0,63. National Geo Graphic
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
+#EXTINF:0,64. Bflix Movi
+http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
+#EXTINF:0,65. Vh1 HD
+https://edge01.iptv.digijadoo.net/live/vh1/playlist.m3u8
+#EXTINF:0,66. Star Plus HD
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
+#EXTINF:0,67. HBO
+http://ccn.anytv.live:8080/hbo/index.m3u8
+#EXTINF:0,68. Cartoon Network
+http://ccn.anytv.live:8080/cartoonnet/index.m3u8
+#EXTINF:0,69. 9xm
+http://103.144.200.7:8080/hls/9xm/index.m3u8
+#EXTINF:0,70. Masti
+http://103.144.200.7:8080/hls/masti2/index.m3u8
+#EXTINF:0,71. Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:0,72. Al Dawah
+http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+#EXTINF:0,73. Ary Asia
+https://edge01.iptv.digijadoo.net/live/ary_asia/playlist.m3u8
+#EXTINF:0,74. Nick Jr
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:0,75. Sony Ten 1
+http://tv-cdn.ihub.live:8083/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:0,76. Sony Ten 2 HD 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
+#EXTINF:0,77. Sony Ten 3
+http://tv-cdn.ihub.live:8083/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:0,78. Star Sports 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:0,79. K Tv HD
+http://corsnowhd.herokuapp.com/http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
+#EXTINF:0,80. DSports HD
+http://49.44.124.179/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0,81. Football Tv
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
+#EXTINF:0,82. History Tv HD
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:0,83. UTv Movies
+http://103.135.208.14/live/ibox/bd/7.m3u8
+#EXTINF:0,84. Discovery 
+http://ccn.anytv.live:8080/Discovery/index.m3u8
+#EXTINF:0,85. Zee tv HD
+ http://103.205.133.42:1935/live/zee_tv_hd_720/chunklist_w1057353301.m3u8
+#EXTINF:0,86. And Tv HD
+http://ddn.amrbd.com:8081/live/andtv-27/chunks.m3u8
+#EXTINF:0,87. Zee Bangla HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/124.m3u8
+#EXTINF:0,88. Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
+#EXTINF:0,89. Star Sports 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
+#EXTINF:0,90. Ptv Sports
+http://103.81.104.222/live/ptv-sports/index.m3u8
+#EXTINF:0,91. Sony six HD
+http://103.205.133.14/hls/sonysix.m3u8
+#EXTINF:0,92. Sony Max HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
+#EXTINF:0,93. And Pictures HD
+http://103.205.133.14/hls/andpicture.m3u8
+#EXTINF:0,94. Enter 10 
+https://edge01.iptv.digijadoo.net/live/enter_ten/playlist.m3u8
